@@ -1,0 +1,52 @@
+{
+  "originalRequest": "aca te paso las 13 paginas del pdf",
+  "subject": "Marca personal y consultoría creativa de Lisi González, que combina desarrollo organizacional, gestión humana, sostenibilidad y arte.",
+  "pageType": "Landing page de una sola página para consultora y marca personal.",
+  "scope": "Nueva SPA pública; no incluye la futura ruta /admin.",
+  "primaryGoal": "Presentar a Lisi y sus servicios con claridad y generar consultas de organizaciones interesadas.",
+  "audience": "Organizaciones y empresas que buscan apoyo en selección, coaching, comunicación, sostenibilidad, talleres, experiencias creativas u outplacement.",
+  "offer": "Consultoría creativa a medida que integra experiencia en psicología, cultura organizacional, RRHH, sostenibilidad y artes plásticas.",
+  "primaryAction": "Contactar a Lisi para conversar sobre una necesidad organizacional.",
+  "creativeControl": "Usar el PDF como referencia visual y de contenido prioritaria. Modernizar composición, jerarquía, legibilidad y adaptación móvil sin perder identidad ni protagonismo de Lisi. Se permite movimiento editorial sutil, scroll reveals y parallax ligero en la hero; evitar efectos que compitan con las fotos o el mensaje.",
+  "requiredContent": [
+    "Hero de Lisi & Co con retrato de Lisi, propuesta de consultoría creativa y CTA de contacto; conservar el contraste entre imagen personal y fondo azul oscuro del PDF, incorporando parallax sutil.",
+    "Perfil de Lisi González: licenciada en Psicología (UBA), coach organizacional centrada en cultura, formación de posgrado en Responsabilidad Social Empresaria (UdeSA), experiencia clínica, RRHH soft y sostenibilidad, y práctica como artista plástica.",
+    "Servicios de selección: identificación de candidatos alineados a cultura y objetivos, evaluación de competencias y presentación de perfiles.",
+    "Servicios de coaching: desarrollo de líderes y equipos, fortalecimiento de habilidades y acompañamiento en crecimiento, cambio y decisiones.",
+    "Estrategia y comunicación organizacional: alineación de comunicación interna, mensajes clave y acciones para cultura, liderazgo y compromiso.",
+    "Talleres y experiencias de integración: aprendizaje participativo, reflexión, creatividad aplicada, pintura colaborativa y actividades para equipos.",
+    "Sostenibilidad e impacto social: acompañamiento en estrategia, gestión, reportes, grupos de interés, proyectos sociales, diversidad, inclusión y comunidad.",
+    "Outplacement y transición de carrera: acompañamiento personalizado, contención, clarificación de objetivos, propuesta de valor y diseño del próximo paso profesional.",
+    "Propuesta de trabajo: escucha activa, adaptación a organizaciones de distintos tamaños y creatividad aplicada a soluciones a medida.",
+    "Alianzas profesionales: consultores asociados, speakers y especialistas para experiencias ajustadas a necesidades del cliente.",
+    "Empresas que confían: mostrar los logos presentes en el PDF sin añadir nuevas empresas ni insinuar avales adicionales.",
+    "Contacto: teléfono +54 9 11 3074-5282, lisigonzalez59@gmail.com, LinkedIn linkedin.com/in/psieligon/ e Instagram @lisi_consultoria y arte.",
+    "Enfoque visual adaptable a móvil que reutilice las fotografías y composiciones suministradas; cada sección debe basarse en una de las referencias entregadas, no en contenido visual inventado."
+  ],
+  "constraints": [
+    "Implementar más adelante como SPA en Next.js con React, Tailwind y shadcn; esta etapa solo define el brief.",
+    "La página pública inicial no debe incluir /admin, cuyo desarrollo queda para una fase futura.",
+    "Conservar y dar protagonismo a la marca personal de Lisi González / Lisi & Co y a sus fotografías y logos suministrados.",
+    "Mantener las animaciones de entrada y scroll solicitadas, con parallax en la hero; favorecer movimiento sutil y respetar preferencias de movimiento reducido.",
+    "No inventar clientes, credenciales, testimonios, resultados medidos ni otros datos comerciales.",
+    "Usar español rioplatense como idioma principal del sitio.",
+    "Los cortes de los diseños entregados son referencias visuales; componerlos de forma adaptable y legible en escritorio y móvil."
+  ],
+  "brandInputs": [
+    "PDF de 13 páginas proporcionado en el chat: incluye logotipo Lisi González / Lisi & Co, retratos y fotografías de actividades, logos empresariales, textos de servicios y datos de contacto.",
+    "Color principal observado: azul marino profundo en fondos y textos; fuente: fondos y composición del PDF.",
+    "Colores de apoyo observados: blanco y gris claro para texto; acentos en celeste/azul, amarillo/dorado y detalles multicolor del logotipo; fuente: fotografías y elementos gráficos del PDF.",
+    "Estilo visual observado: consultoría profesional con voz personal, secciones de alto contraste, retratos y escenas de trabajo, motivo lineal sutil de huella o espiral; fuente: páginas del PDF.",
+    "Tipografía exacta no identificada; el PDF muestra una sans serif limpia y contemporánea.",
+    "Se suministraron fotos reales de Lisi y actividades, además de logos de empresas presentes en la referencia."
+  ],
+  "assumptions": [
+    "El objetivo principal es convertir visitas de empresas y organizaciones en consultas directas por los canales de contacto mostrados en el PDF.",
+    "Se puede reorganizar el material del PDF en una narrativa de landing page coherente, sin alterar los hechos o servicios que contiene.",
+    "La animación debe ser elegante, de baja distracción y accesible, con alternativa de movimiento reducido.",
+    "Se priorizarán los datos de contacto proporcionados en la última página del PDF para el CTA principal.",
+    "El PDF y sus imágenes son la referencia elegida para todas las composiciones de escritorio y móvil; no se agregarán secciones ajenas a los servicios y trayectoria presentados."
+  ],
+  "unresolved": [],
+  "explicitAnswers": []
+}
